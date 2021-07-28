@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Temperature-Converter/static/css/main.6db39ff2.chunk.css",
+    "main.js": "/React-Temperature-Converter/static/js/main.91133467.chunk.js",
+    "main.js.map": "/React-Temperature-Converter/static/js/main.91133467.chunk.js.map",
+    "runtime-main.js": "/React-Temperature-Converter/static/js/runtime-main.fa0b0f20.js",
+    "runtime-main.js.map": "/React-Temperature-Converter/static/js/runtime-main.fa0b0f20.js.map",
+    "static/js/2.4a44566a.chunk.js": "/React-Temperature-Converter/static/js/2.4a44566a.chunk.js",
+    "static/js/2.4a44566a.chunk.js.map": "/React-Temperature-Converter/static/js/2.4a44566a.chunk.js.map",
+    "index.html": "/React-Temperature-Converter/index.html",
+    "static/css/main.6db39ff2.chunk.css.map": "/React-Temperature-Converter/static/css/main.6db39ff2.chunk.css.map",
+    "static/js/2.4a44566a.chunk.js.LICENSE.txt": "/React-Temperature-Converter/static/js/2.4a44566a.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/React-Temperature-Converter/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa0b0f20.js",
+    "static/js/2.4a44566a.chunk.js",
+    "static/css/main.6db39ff2.chunk.css",
+    "static/js/main.91133467.chunk.js"
+  ]
+}
